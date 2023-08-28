@@ -1,0 +1,16 @@
+{
+    "gitConfigUser.profiles": [
+        {
+            "label": "Jhonv4sq",
+            "userName": "Jhon Vasquez",
+            "email": "jhonv4sq.01@gmail.com",
+            "selected": false
+        },
+        {
+            "label": "Jhon",
+            "email": "jhon@visagov.com",
+            "userName": "Jhon",
+            "selected": true
+        }
+    ]
+}
